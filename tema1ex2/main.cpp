@@ -8,13 +8,13 @@ int main()
       int a;
       int b;
       int c;
-      cout << "a:";
+      cout << "a=";
       cin >> a;
-      cout << "b:";
+      cout << "b=";
       cin >> b;
-      cout << "c:";
+      cout << "c=";
       cin >> c;
-      cout << a << " + " << b << " = t" << a+b << endl;
+      cout << a << " + " << b << " = " << a+b << endl;
       cout << a << " + " << c << " = " << a+c << endl;
       cout << b << " + " << c << " = " << b+c << endl;
 
